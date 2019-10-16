@@ -1,20 +1,8 @@
-# GitBranchTemplate
-git branch template for mass of feature or issue requests
-
-## Features
-1. Unified comments
-2. Unified branch's create and delete
-3. Unified github's issue, branch and comment
-4. Issue and PR tempates
+# Rswork Template Manager
+Manage project's templates like build scripts or new project templates etc.
 
 ## Usage
-1. Copy .github folder to your project
-
-```bash
-cp -rvf /path/to/GitBranchTemplate /path/to/YourProject
-```
-
-2. Init
+1. Init
 
 ```bash
 cd .github
